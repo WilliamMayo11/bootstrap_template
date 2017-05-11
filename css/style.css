@@ -1,0 +1,28 @@
+/*CAROUSEL IMAGES FROM INDEX.HTML*/
+
+.slide1 {
+  background-image: url('../images/bonnie.png');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slide2 {
+  background-image: url('../images/ducati.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slide3 {
+  background-image: url('../images/r9t.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.featured-item-img:hover {
+  box-shadow: 1px 1px 2px gray;
+}
+
